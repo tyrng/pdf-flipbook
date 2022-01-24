@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "https://github.com/tyrng/pdf-flipbook/raw/master/resource/book.pdf";
+var DEFAULT_URL =  "book.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
